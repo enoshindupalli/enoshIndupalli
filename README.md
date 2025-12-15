@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Enosh Indupalli
 
-<!--
-**enoshindupalli/enoshIndupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend Developer | Spring Boot | Big Data (Apache Spark) | GenAI (Spring AI) | Azure & GCP  
+🎓 MS in Information Technology @ University of Central Missouri  
+---
+## 👨‍💻 About Me
+I'm a Java Backend Developer with hands-on experience in building scalable backend applications using Spring Boot and Spring Framework.  
+I have practical exposure to Big Data Engineering, cloud platforms, and Generative AI–driven workflows.
 
-Here are some ideas to get you started:
+I enjoy working on:
+- Backend & API Development  
+- Big Data Processing using Apache Spark  
+- Cloud-based data pipelines (Azure & GCP)  
+- AI-enabled backend services using Spring AI  
+---
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, Python, SQL  
+**Backend:** Spring Boot, Spring Framework, Spring Security, Hibernate, JPA  
+**Big Data:** Apache Spark, Hadoop, Spark SQL  
+**Cloud:** Azure, Google Cloud Platform (GCP)  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**AI:** Spring AI, Generative AI, AI Agents  
+---
+## 📂 Featured Work
+- 🔹 Spring Boot Backend Projects  
+- 🔹 Big Data Engineering Pipelines  
+- 🔹 Data Structures & Algorithms  
+- 🔹 System Design & Low-Level Design  
+---
+## 📫 Connect With Me
+- 💼 LinkedIn: enosh-noah-das-i-35a106262
+- 📧 Email: indupallienosh2023@gmail.com
+
+⭐ If you like my work, feel free to star the repositories!
+
