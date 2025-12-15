@@ -4,8 +4,7 @@
 🎓 MS in Information Technology @ University of Central Missouri  
 ---
 ## 👨‍💻 About Me
-I'm a Java Backend Developer with hands-on experience in building scalable backend applications using Spring Boot and Spring Framework.  
-I have practical exposure to Big Data Engineering, cloud platforms, and Generative AI–driven workflows.
+I'm a Java Backend Developer with experience in building scalable backend applications using Spring Boot and Spring Framework.  
 
 I enjoy working on:
 - Backend & API Development  
