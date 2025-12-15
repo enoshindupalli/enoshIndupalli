@@ -29,7 +29,7 @@ I enjoy working on:
 - 🔹 System Design & Low-Level Design  
 ---
 ## 📫 Connect With Me
-- 💼 LinkedIn: enosh-noah-das-i-35a106262
+- 💼 LinkedIn: <enosh-noah-das-i-35a106262>
 - 📧 Email: indupallienosh2023@gmail.com
 
 ⭐ If you like my work, feel free to star the repositories!
