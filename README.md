@@ -12,6 +12,10 @@ I enjoy working on:
 - Cloud-based data pipelines (Azure & GCP)  
 - AI-enabled backend services using Spring AI  
 ---
+## 📄 Resume
+
+📌 **[Download My Resume](./Enosh_Indupalli_Resume.pdf)**
+
 ## 🛠️ Tech Stack
 
 **Languages:** Java, Python, SQL  
